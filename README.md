@@ -1,4 +1,5 @@
 <h1 align="center">Greetings! I'm Kevin.</h1>
+<h3 align="center">I'm a college sophmore working towards a computer science degree.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
