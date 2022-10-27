@@ -25,4 +25,10 @@
     <a href="https://minecraft.fandom.com/wiki/Function" target="blank" rel="noreferrer">
     <img src="icons/mcfunction.webp" alt="typescript" width="40" height="40"/></a>
     <!------>
+    <a href="https://html.com/" target="blank" rel="noreferrer">
+    <img src="icons/html5.svg" alt="html5" width="40" height="40"/></a>
+    <!------>
+    <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="blank" rel="noreferrer">
+    <img src="icons/css3.svg" alt="css3" width="40" height="40"/></a>
+    <!------>
 </p>
