@@ -3,9 +3,9 @@
 <!---------->
 <h3 align="center">
     My Website: https://kwu1010.github.io
-<\h3>
+</h3>
 <!---------->
-<h3 align="left">Languages and Tools:<\h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <!------>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
